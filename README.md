@@ -1,5 +1,5 @@
 # fastapi_mongodb_study-project_2
-##Study project.<br>
+## Study project.<br>
 REST API application.<br>
 
 ### Stack of technologies:<br>
