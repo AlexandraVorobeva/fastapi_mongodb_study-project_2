@@ -10,8 +10,9 @@ REST API application.<br>
 ## Installation
 ### Clone the repo:<br>
 
-$ git clone https://github.com/SparklingAcidity/Smart-Design-test <br>
-$ cd Smart-Design-test<br>
+$ git clone https://github.com/SparklingAcidity/fastapi_mongodb_study-project_2 <br>
+$ cd fastapi_mongodb_study-project_2
+<br>
 
 ### Create virtualenv:<br>
 $ virtualenv venv<br>
